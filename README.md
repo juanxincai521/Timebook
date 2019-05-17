@@ -6,3 +6,5 @@
 
 https://raw.githubusercontent.com/satrom/Timebook/master/精检验400书源.json
 https://raw.githubusercontent.com/satrom/Timebook/master/魔改693书源.json
+https://raw.githubusercontent.com/satrom/Timebook/master/update.json
+https://raw.githubusercontent.com/satrom/Timebook/master/update.txt
