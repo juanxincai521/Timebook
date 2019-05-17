@@ -247,4 +247,36 @@
   "serialNumber": 0,
   "weight": 0
 }
+{
+  "bookSourceGroup": "朝阳",
+  "bookSourceName": "吾爱文学网手机版",
+  "bookSourceUrl": "http://m.x2552.com",
+  "enable": false,
+  "ruleBookContent": "id.nr1@textNodes",
+  "ruleBookLastChapter": "class.block_txt2@tag.p.-1@tag.a@text",
+  "ruleChapterList": "class.chapter@tag.li",
+  "ruleChapterName": "tag.a@text",
+  "ruleChapterUrl": "text.查看目录@href",
+  "ruleChapterUrlNext": "text.下一页@href",
+  "ruleContentUrl": "tag.a@href",
+  "ruleContentUrlNext": "",
+  "ruleCoverUrl": "class.block_img2@img@src",
+  "ruleFindAuthor": "class.line@tag.a.2@text",
+  "ruleFindCoverUrl": "",
+  "ruleFindKind": "class.line@tag.a.0@text",
+  "ruleFindLastChapter": "",
+  "ruleFindList": "class.cover@tag.p",
+  "ruleFindName": "class.line@tag.a.1@text",
+  "ruleFindNoteUrl": "class.line@tag.a.1@href",
+  "ruleFindUrl": "玄幻小说::/sort/1_searchPage/&&仙侠小说::/sort/2_searchPage/&&都市小说::/sort/3_searchPage/&&历史小说::/sort/4_searchPage/&&游戏小说::/sort/5_searchPage/&&科幻小说::/sort/6_searchPage/&&恐怖小说::/sort/7_searchPage/&&女生小说::/sort/8_searchPage/&&其他小说::/sort/9_searchPage/",
+  "ruleIntroduce": "class.intro_info@text",
+  "ruleSearchAuthor": "tag.a.2@text",
+  "ruleSearchKind": "tag.a.0@text",
+  "ruleSearchList": "class.cover@tag.p",
+  "ruleSearchName": "tag.a.1@text",
+  "ruleSearchNoteUrl": "tag.a.1@href",
+  "ruleSearchUrl": "http://m.x2552.com/s.php@type=articlename&s=searchKey&submit=|char=gbk",
+  "serialNumber": 6,
+  "weight": 0
+}
 ]
