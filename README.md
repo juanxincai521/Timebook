@@ -4,7 +4,7 @@
 
 书源配置重要说明
 
-https://raw.githubusercontent.com/satrom/Timebook/master/精检验400书源.json
-https://raw.githubusercontent.com/satrom/Timebook/master/魔改693书源.json
-https://raw.githubusercontent.com/satrom/Timebook/master/update.json
-https://raw.githubusercontent.com/satrom/Timebook/master/update.txt
+My176源:https://gitee.com/gekunfei/web/raw/master/myBookshelf/bookSource_176
+
+更新源:https://raw.githubusercontent.com/satrom/Timebook/master/update.json
+更新源:https://raw.githubusercontent.com/satrom/Timebook/master/update.txt
