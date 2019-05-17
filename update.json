@@ -1,0 +1,30 @@
+[
+{
+  "bookSourceGroup": "朝阳; 发现",
+  "bookSourceName": "热门小说网-remen88.com",
+  "bookSourceUrl": "https://www.remen88.com",
+  "enable": true,
+  "ruleBookContent": "class.content@textNodes",
+  "ruleChapterList": "class.novel_list@tag.dl@tag.dd",
+  "ruleChapterName": "tag.a@text",
+  "ruleContentUrl": "tag.a@href",
+  "ruleCoverUrl": "class.book_cover@img@src",
+  "ruleFindAuthor": "tag.span.3@text|tag.span.1@text",
+  "ruleFindKind": "tag.span.0@text",
+  "ruleFindLastChapter": "tag.span.2@tag.a@text",
+  "ruleFindList": "class.l@tag.ul@tag.li|class.r@tag.ul@tag.li",
+  "ruleFindName": "tag.span.1@tag.a@text|tag.span.0@tag.a@text",
+  "ruleFindNoteUrl": "tag.span.1@tag.a@href|tag.span.0@tag.a@href",
+  "ruleFindUrl": "都市::/leixing_1_searchPage/&&现言::/leixing_2_searchPage/&&古言::/leixing_3_searchPage/&&青春::/leixing_4_searchPage/&&玄幻::/leixing_5_searchPage/&&武侠::/leixing_6_searchPage/&&悬疑::/leixing_7_searchPage/&&历史::/leixing_8_searchPage/&&游戏::/leixing_9_searchPage/&&科幻::/leixing_10_searchPage/&&二次元::/leixing_11_searchPage/",
+  "ruleIntroduce": "id.intro@text",
+  "ruleSearchAuthor": "tag.span.3@text",
+  "ruleSearchKind": "tag.span.0@tag.a@text",
+  "ruleSearchLastChapter": "tag.span.2@tag.a@text",
+  "ruleSearchList": "class.novelslist2@tag.ul@tag.li!0:",
+  "ruleSearchName": "tag.span.1@tag.a@text",
+  "ruleSearchNoteUrl": "tag.span.1@tag.a@href",
+  "ruleSearchUrl": "https://www.remen88.com/search.html@searchkey=searchKey",
+  "serialNumber": 0,
+  "weight": 0
+}
+]
