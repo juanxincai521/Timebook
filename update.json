@@ -1,7 +1,7 @@
 [
 {
-  "bookSourceGroup": "朝阳; 发现",
-  "bookSourceName": "热门小说网-remen88.com",
+  "bookSourceGroup": "朝阳",
+  "bookSourceName": "热门小说网",
   "bookSourceUrl": "https://www.remen88.com",
   "enable": true,
   "ruleBookContent": "class.content@textNodes",
@@ -27,4 +27,37 @@
   "serialNumber": 0,
   "weight": 0
 }
+{
+  "bookSourceGroup": "修复版",
+  "bookSourceName": "有意思书院",
+  "bookSourceUrl": "http://www.heihei66.com",
+  "enable": true,
+  "httpUserAgent": "",
+  "loginUrl": "",
+  "ruleBookAuthor": "class.book-title@tag.em@text",
+  "ruleBookContent": "id.BookText@html",
+  "ruleBookKind": "",
+  "ruleBookLastChapter": "class.book-info@tag.a.0@text",
+  "ruleBookName": "tag.h1@text",
+  "ruleBookUrlPattern": "",
+  "ruleChapterList": "class.chapterlist@tag.dd",
+  "ruleChapterName": "tag.a@text",
+  "ruleChapterUrl": "class.b-orange@href",
+  "ruleChapterUrlNext": "",
+  "ruleContentUrl": "tag.a@href",
+  "ruleContentUrlNext": "class.link@tag.a.4@href",
+  "ruleCoverUrl": "class.book-img@tag.img@src",
+  "ruleFindUrl": "",
+  "ruleIntroduce": "class.book-intro@text",
+  "ruleSearchAuthor": "tag.p.0@text#状态.*",
+  "ruleSearchCoverUrl": "tag.img.0@src",
+  "ruleSearchKind": "tag.p.0@text#.*状态：",
+  "ruleSearchLastChapter": "tag.p.1@text",
+  "ruleSearchList": "class.item-pic",
+  "ruleSearchName": "tag.a.1@text",
+  "ruleSearchNoteUrl": "tag.a.0@href",
+  "ruleSearchUrl": "http://www.kanshuge.co/modules/article/searche.php?searchkey=searchKey|char=gbk",
+  "serialNumber": 363,
+  "weight": 0
+}  
 ]
