@@ -7,5 +7,3 @@
 My176源:https://gitee.com/gekunfei/web/raw/master/myBookshelf/bookSource_176
 
 更新源:https://raw.githubusercontent.com/satrom/Timebook/master/update.json
-
-更新源:https://raw.githubusercontent.com/satrom/Timebook/master/update.txt
