@@ -1,6 +1,6 @@
 [
 {
-  "bookSourceGroup": "朝阳",
+  "bookSourceGroup": "2群",
   "bookSourceName": "热门小说网",
   "bookSourceUrl": "https://www.remen88.com",
   "enable": true,
@@ -28,7 +28,7 @@
   "weight": 0
 },
 {
-  "bookSourceGroup": "修复版",
+  "bookSourceGroup": "2群",
   "bookSourceName": "有意思书院",
   "bookSourceUrl": "http://www.heihei66.com",
   "enable": true,
@@ -61,8 +61,8 @@
   "weight": 0
 },
 {
-  "bookSourceGroup": "精选书源💯; 发现; 烏雲",
-  "bookSourceName": "完本神站~wanbentxt.com",
+  "bookSourceGroup": "2群",
+  "bookSourceName": "完本神站",
   "bookSourceUrl": "https://www.wanbentxt.com",
   "enable": true,
   "httpUserAgent": "",
@@ -101,7 +101,7 @@
   "weight": 0
 },
 {
-  "bookSourceGroup": "XPath; 烏雲",
+  "bookSourceGroup": "2群",
   "bookSourceName": "卡夜阁•手机版",
   "bookSourceType": "",
   "bookSourceUrl": "https://m.kayege.com",
@@ -135,8 +135,8 @@
   "weight": 0
 },
 {
-  "bookSourceGroup": "烏雲; 发现",
-  "bookSourceName": "完本神站~wanbentxt.com",
+  "bookSourceGroup": "2群",
+  "bookSourceName": "完本神站",
   "bookSourceUrl": "https://www.wanbentxt.com",
   "enable": true,
   "httpUserAgent": "",
@@ -175,8 +175,8 @@
   "weight": 0
 },
 {
-  "bookSourceGroup": "精选书源💯; 发现; 烏雲",
-  "bookSourceName": "#完本神站~wanbentxt.com",
+  "bookSourceGroup": "2群",
+  "bookSourceName": "#完本神站",
   "bookSourceUrl": "https://www.wanbentxt.com",
   "enable": true,
   "httpUserAgent": "",
@@ -215,8 +215,8 @@
   "weight": 0
 },
 {
-  "bookSourceGroup": "出版",
-  "bookSourceName": "#作品集📚",
+  "bookSourceGroup": "2群",
+  "bookSourceName": "作品集",
   "bookSourceUrl": "http://zuopinj.com",
   "enable": true,
   "httpUserAgent": "",
@@ -248,7 +248,7 @@
   "weight": 0
 },
 {
-  "bookSourceGroup": "朝阳",
+  "bookSourceGroup": "2群",
   "bookSourceName": "吾爱文学网手机版",
   "bookSourceUrl": "http://m.x2552.com",
   "enable": false,
@@ -280,7 +280,7 @@
   "weight": 0
 },
 {
-  "bookSourceGroup": "优",
+  "bookSourceGroup": "2群",
   "bookSourceName": "恋上你看书网",
   "bookSourceUrl": "http://www.630ksw.com",
   "enable": true,
