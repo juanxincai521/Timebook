@@ -260,5 +260,27 @@
   "ruleSearchUrl": "http://www.1909.tv/search.html?searchtype=novelname&searchkey=searchKey",
   "serialNumber": 115,
   "weight": 0
+},
+{
+  "bookSourceGroup": "2群",
+  "bookSourceName": "趣书吧",
+  "bookSourceUrl": "m.qushuba.com/\r",
+  "enable": false,
+  "ruleBookContent": "id.nr1@textNodes",
+  "ruleBookLastChapter": "class.block_txt2@tag.p.6@tag.a@text",
+  "ruleChapterList": "class.chapter@tag.li",
+  "ruleChapterName": "tag.a@text",
+  "ruleChapterUrl": "text.查看完整目录@href",
+  "ruleContentUrl": "tag.a@href",
+  "ruleCoverUrl": "class.block_img2@img@src",
+  "ruleFindUrl": "全本::http://m.qushuba.com/full-1/&&玄幻小说::http://m.qushuba.com/xuanhuanxiaoshuo/&&修真小说::http://m.qushuba.com/xiuzhenxiaoshuo/&&都市小说::http://m.qushuba.com/dushixiaoshuo/&&穿越小说::http://m.qushuba.com/chuanyuexiaoshuo/&&网游小说::http://m.qushuba.com/wangyouxiaoshuo/&&科幻小说::http://m.qushuba.com/kehuanxiaoshuo/&&小说阅读榜::http://m.qushuba.com/paihangbang/&&收藏榜::http://m.qushuba.com/shoucangbang/&&推荐榜::http://m.qushuba.com/tuijianbang/&&新书榜::http://m.qushuba.com/xinshubang/",
+  "ruleIntroduce": "class.intro_info@text",
+  "ruleSearchAuthor": "tag.p@text#.*./",
+  "ruleSearchList": "class.cover@tag.p",
+  "ruleSearchName": "tag.a@text",
+  "ruleSearchNoteUrl": "tag.a@href",
+  "ruleSearchUrl": "http://m.qushuba.com/modules/article/search.php?searchtype=keywords&searchkey=searchKey{,&page=searchPage}|char=gbk",
+  "serialNumber": 2,
+  "weight": 0
 }
 ]
