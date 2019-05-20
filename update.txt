@@ -1,5 +1,4 @@
-[
-{
+[  {
   "bookSourceGroup": "朝阳",
   "bookSourceName": "热门小说网",
   "bookSourceUrl": "https://www.remen88.com",
@@ -307,5 +306,4 @@
   "ruleSearchUrl": "http://www.630ksw.com/SearchBook.aspx?keyword=searchKey|char=utf-8",
   "serialNumber": 120,
   "weight": 0
-}
-]
+}  ]
