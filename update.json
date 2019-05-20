@@ -279,4 +279,33 @@
   "serialNumber": 6,
   "weight": 0
 }
+{
+  "bookSourceGroup": "优",
+  "bookSourceName": "恋上你看书网",
+  "bookSourceUrl": "http://www.630ksw.com",
+  "enable": true,
+  "httpUserAgent": "",
+  "ruleBookAuthor": "",
+  "ruleBookContent": "id.content@textNodes",
+  "ruleBookName": "",
+  "ruleChapterList": "id.list@tag.dd@tag.a",
+  "ruleChapterName": "text",
+  "ruleChapterUrl": "",
+  "ruleChapterUrlNext": "",
+  "ruleContentUrl": "href",
+  "ruleContentUrlNext": "",
+  "ruleCoverUrl": "id.fmimg@tag.img@src",
+  "ruleFindUrl": "",
+  "ruleIntroduce": "id.intro@text",
+  "ruleSearchAuthor": "class.s4@text",
+  "ruleSearchCoverUrl": "",
+  "ruleSearchKind": "class.s1@text",
+  "ruleSearchLastChapter": "class.s3@tag.a.0@text",
+  "ruleSearchList": "class.novelslist2@tag.li",
+  "ruleSearchName": "class.s2@tag.a.0@text",
+  "ruleSearchNoteUrl": "class.s2@tag.a.0@href",
+  "ruleSearchUrl": "http://www.630ksw.com/SearchBook.aspx?keyword=searchKey|char=utf-8",
+  "serialNumber": 120,
+  "weight": 0
+}
 ]
