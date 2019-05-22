@@ -1,5 +1,27 @@
 [
 {
+  "bookSourceGroup": "朝阳; 发现; 18禁",
+  "bookSourceName": "胡须小说网",
+  "bookSourceUrl": "http://m.huxuxs.com",
+  "enable": true,
+  "ruleBookContent": "$class.novelinfvie@textNodes",
+  "ruleChapterList": "class.sso_a@tag.ul@tag.li",
+  "ruleChapterName": "tag.a@text",
+  "ruleContentUrl": "tag.a@href",
+  "ruleFindList": "",
+  "ruleFindUrl": "仙侠::http://m.huxuxs.com/huxuclass.asp?id=3{,&page=searchPage}&&穿越::http://m.huxuxs.com/huxuclass.asp?id=11{,&page=searchPage}&&官场::http://m.huxuxs.com/huxuclass.asp?id=13{,&page=searchPage}&&乡村::http://m.huxuxs.com/huxuclass.asp?id=21{,&page=searchPage}&&都市::http://m.huxuxs.com/huxuclass.asp?id=4{,&page=searchPage}&&热门::http://m.huxuxs.com/huxuclass.asp?id=24{,&page=searchPage}&&耽美::http://m.huxuxs.com/huxuclass.asp?id=15{,&page=searchPage}&&科幻::http://m.huxuxs.com/huxuclass.asp?id=16{,&page=searchPage}&&军事::http://m.huxuxs.com/huxuclass.asp?id=8{,&page=searchPage}&&玄幻::http://m.huxuxs.com/huxuclass.asp?id=1{,&page=searchPage}&&重生::http://m.huxuxs.com/huxuclass.asp?id=12{,&page=searchPage}&&武侠::http://m.huxuxs.com/huxuclass.asp?id=2{,&page=searchPage}&&短篇::http://m.huxuxs.com/huxuclass.asp?id=22{,&page=searchPage}&&灵异::http://m.huxuxs.com/huxuclass.asp?id=17{,&page=searchPage}&&名著::http://m.huxuxs.com/huxuclass.asp?id=20{,&page=searchPage}&&网游::http://m.huxuxs.com/huxuclass.asp?id=9{,&page=searchPage}&&言情::http://m.huxuxs.com/huxuclass.asp?id=5{,&page=searchPage}&&总裁::http://m.huxuxs.com/huxuclass.asp?id=25{,&page=searchPage}&&竞技::http://m.huxuxs.com/huxuclass.asp?id=10{,&page=searchPage}&&架空::http://m.huxuxs.com/huxuclass.asp?id=14{,&page=searchPage}",
+  "ruleSearchAuthor": "class.main@tag.span.1@text#作者：|时间.*|更新.*",
+  "ruleSearchCoverUrl": "class.img@img@src",
+  "ruleSearchIntroduce": "class.intro@text",
+  "ruleSearchKind": "class.main@tag.span.0@text",
+  "ruleSearchList": "class.booklist_a@tag.ul@tag.li",
+  "ruleSearchName": "class.main@tag.a@tag.strong@text",
+  "ruleSearchNoteUrl": "class.main@tag.a@href",
+  "ruleSearchUrl": "http://m.huxuxs.com/search.asp?word=searchKey{,&page=searchPage}|char=gbk",
+  "serialNumber": 1,
+  "weight": 0
+},
+  {
   "bookSourceGroup": "2群",
   "bookSourceName": "热门小说网",
   "bookSourceUrl": "https://www.remen88.com",
