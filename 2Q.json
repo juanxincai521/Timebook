@@ -1,6 +1,39 @@
 [
+  {
+    "bookSourceGroup": "2群",
+    "bookSourceName": "新热门小说",
+    "bookSourceUrl": "https://www.xinremenxs.com",
+    "enable": false,
+    "httpUserAgent": "",
+    "loginUrl": "",
+    "ruleBookAuthor": "",
+    "ruleBookContent": "class.content@textNodes#您可以在百度里搜索|“//// |.*\\(.*|\\)”|查找最新章节！",
+    "ruleBookKind": "",
+    "ruleBookLastChapter": "",
+    "ruleBookName": "",
+    "ruleBookUrlPattern": "",
+    "ruleChapterList": "tag.dd!0",
+    "ruleChapterName": "tag.a@text",
+    "ruleChapterUrl": "",
+    "ruleChapterUrlNext": "class.caption@text.下一页.0@href",
+    "ruleContentUrl": "tag.a@href",
+    "ruleContentUrlNext": "",
+    "ruleCoverUrl": "class.book_cover@tag.img@src",
+    "ruleFindUrl": "",
+    "ruleIntroduce": "id.intro@text",
+    "ruleSearchAuthor": "class.s4@text",
+    "ruleSearchCoverUrl": "",
+    "ruleSearchKind": "class.s1@text",
+    "ruleSearchLastChapter": "class.s3@text",
+    "ruleSearchList": "class.novelslist2@tag.li!0",
+    "ruleSearchName": "class.s2@tag.a@text",
+    "ruleSearchNoteUrl": "class.s2@tag.a@href",
+    "ruleSearchUrl": "https://www.xinremenxs.com/search.html@searchtype=all&searchkey=searchKey",
+    "serialNumber": 0,
+    "weight": 0
+},
 {
-  "bookSourceGroup": "普通",
+  "bookSourceGroup": "2群",
   "bookSourceName": "爱看书吧",
   "bookSourceUrl": "https://m.aikanshu8.com",
   "enable": true,
@@ -33,7 +66,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "烏雲",
+  "bookSourceGroup": "2群",
   "bookSourceName": "追读看书",
   "bookSourceUrl": "https://www.zhuidu.cc",
   "enable": true,
@@ -64,7 +97,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "烏雲",
+  "bookSourceGroup": "2群",
   "bookSourceName": "酷安",
   "bookSourceUrl": "https://www.coolapk.com",
   "enable": true,
@@ -95,7 +128,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "🔞",
+  "bookSourceGroup": "2群",
   "bookSourceName": "第二版主",
   "bookSourceUrl": "http://www.banzhu22.com",
   "enable": false,
