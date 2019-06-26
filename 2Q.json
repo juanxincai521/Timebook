@@ -1,6 +1,36 @@
 [
+{
+  "bookSourceGroup": "2群",
+  "bookSourceName": "书库网九天之狼",
+  "bookSourceUrl": "http://www.shukw.com/indexs.php",
+  "enable": false,
+  "httpUserAgent": "",
+  "ruleBookAuthor": "",
+  "ruleBookContent": "id.nr@textNodes#shukw.com 书库网|，最快更新.*最新章节！",
+  "ruleBookName": "",
+  "ruleChapterList": "class.list-group list-charts@tag.li",
+  "ruleChapterName": "tag.a@text",
+  "ruleChapterUrl": "",
+  "ruleChapterUrlNext": "",
+  "ruleContentUrl": "tag.a@href",
+  "ruleContentUrlNext": "",
+  "ruleCoverUrl": "class.info1@tag.img@src",
+  "ruleFindUrl": "",
+  "ruleIntroduce": "class.pannel-body info@tag.p@text",
+  "ruleSearchAuthor": "id.booklast@tag.a@text",
+  "ruleSearchCoverUrl": "",
+  "ruleSearchIntroduce": "",
+  "ruleSearchKind": "tag.p.3@text",
+  "ruleSearchLastChapter": "tag.p.2@text",
+  "ruleSearchList": "id.bookcon@tag.tr!0:",
+  "ruleSearchName": "tag.a.0@text",
+  "ruleSearchNoteUrl": "tag.a.0@href",
+  "ruleSearchUrl": "http://www.shukw.com/modules/article/search.php?searchkey=searchKey&page=searchPage|char=gbk",
+  "serialNumber": 155,
+  "weight": 0
+},
   {
-  "bookSourceGroup": "CSS; AllInOne",
+  "bookSourceGroup": "2群",
   "bookSourceName": "小笔趣阁-修复",
   "bookSourceUrl": "https://www.xiaobiquge.com",
   "enable": true,
@@ -35,7 +65,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "黑棱镜-AA级",
+  "bookSourceGroup": "2群",
   "bookSourceName": "31小说网",
   "bookSourceUrl": "http://m.xx31xs.org-By 黑棱镜",
   "enable": true,
@@ -70,7 +100,7 @@
 },
   {
   "bookSourceName": "小说楼",
-  "bookSourceGroup": "Xpath",
+  "bookSourceGroup": "2群",
   "bookSourceUrl": "https://www.xslou.com",
   "loginUrl": "",
   "ruleFindUrl": "",
@@ -112,7 +142,7 @@
   "enable": true
 },
 {
-    "bookSourceGroup": "优质书源",
+    "bookSourceGroup": "2群",
     "bookSourceName": "动听free听书网（发现）",
     "bookSourceUrl": "http://www.tingfree.com",
     "enable": true,
@@ -138,7 +168,7 @@
     "weight": 0
   },
   {
-  "bookSourceGroup": "黑棱镜-AAA级",
+  "bookSourceGroup": "2群",
   "bookSourceName": "幼狮书盟",
   "bookSourceUrl": "https://www.yssm.org-By 黑棱镜",
   "enable": false,
@@ -171,7 +201,7 @@
 },
 {
   "bookSourceName": "铅笔小说",
-  "bookSourceGroup": "正则,轻小说,快更",
+  "bookSourceGroup": "2群",
   "bookSourceUrl": "https://www.x23qb.com",
   "loginUrl": "",
   "ruleFindUrl": "",
