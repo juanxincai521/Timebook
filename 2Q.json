@@ -1,6 +1,35 @@
 [
   {
-  "bookSourceGroup": "JSon; AllInOne",
+  "bookSourceGroup": "2群",
+  "bookSourceName": "🔥零点",
+  "bookSourceUrl": "https://www.00ksw.net",
+  "enable": false,
+  "ruleBookAuthor": "##:author\" content=\"([^\"]+)##$1###",
+  "ruleBookContent": "@css:#articlecontent@html##【(零点(看书)?|(www\\.)?\\w{1,10}\\.com|\\s)+】|(www|m)\\.lingdiankanshu\\.[a-z]{2,5}",
+  "ruleBookKind": "##:category\" content=\"([^\"]+)##$1###",
+  "ruleBookLastChapter": "##_chapter_name\" content=\"([^\"]+)##$1###",
+  "ruleBookName": "##:book_name\" content=\"([^\"]+)##$1###",
+  "ruleChapterList": ":\\n {24}(?: {4}|<ul>)<li><a[^\"]+\"([^\"]*)\">([^<]*)",
+  "ruleChapterName": "$2",
+  "ruleChapterUrl": "",
+  "ruleChapterUrlNext": "",
+  "ruleContentUrl": "$1",
+  "ruleCoverUrl": "##:image\" content=\"([^\"]+)##$1###",
+  "ruleIntroduce": "##:description\" content=\"([^\"]+)##$1###",
+  "ruleSearchAuthor": "@css:td:eq(2)@text",
+  "ruleSearchCoverUrl": "##html/(\\d+)/(\\d+)/\"##http://www.00ksw.net/img/$1/$2/$2s.jpg###",
+  "ruleSearchIntroduce": "@css:td:eq(3)@text",
+  "ruleSearchKind": "@css:td:eq(4)@text",
+  "ruleSearchLastChapter": "@css:td:eq(1)@text",
+  "ruleSearchList": "@css:tbody tr:nth-of-type(n+2)",
+  "ruleSearchName": "@css:td:eq(0)@text",
+  "ruleSearchNoteUrl": "##(//www.00ksw.net/html/\\d+/\\d+/)\"##$1###",
+  "ruleSearchUrl": "/search.php@keyword=searchKey|char=gbk",
+  "serialNumber": 1,
+  "weight": 0
+},
+  {
+  "bookSourceGroup": "2群",
   "bookSourceName": "★米读小说★",
   "bookSourceUrl": "http://api.midukanshu.com",
   "enable": true,
@@ -34,7 +63,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "",
+  "bookSourceGroup": "2群",
   "bookSourceName": "久久小说网",
   "bookSourceUrl": "https://m.fifm.cn",
   "enable": false,
@@ -57,7 +86,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "S级",
+  "bookSourceGroup": "2群",
   "bookSourceName": "武林中文网",
   "bookSourceUrl": "https://www.50zw.net-By Dark",
   "enable": true,
@@ -84,7 +113,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "正则; CSS",
+  "bookSourceGroup": "2群",
   "bookSourceName": "🔥笔趣阁5200",
   "bookSourceUrl": "http://www.b5200.net",
   "enable": false,
@@ -118,7 +147,7 @@
 },
   {
     "bookSourceName": "亲小说",
-    "bookSourceGroup": "CSS+正则;轻小说;发现",
+    "bookSourceGroup": "2群",
     "bookSourceUrl": "http://www.qinxiaoshuo.com",
     "loginUrl": "",
     "ruleFindUrl": "新闻资讯::/news/tag/新闻/searchPage.html\n日轻小说::/tag/日轻/searchPage.html\n科幻小说::/tag/科幻/searchPage.html\n热度排行::/rank/searchPage.html",
@@ -160,7 +189,7 @@
     "enable": true
 },
   {
-  "bookSourceGroup": "S级",
+  "bookSourceGroup": "2群",
   "bookSourceName": "书荒啦文学网",
   "bookSourceUrl": "https://m.shuhuang.la-By Dark",
   "enable": false,
@@ -189,7 +218,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "AllInOne; CSS",
+  "bookSourceGroup": "2群",
   "bookSourceName": "九桃小说网",
   "bookSourceUrl": "https://www.9txs.com",
   "enable": false,
@@ -223,7 +252,7 @@
   "weight": 0
 },
   {
-  “bookSourceGroup”：“S级”，
+  “bookSourceGroup”：“2群”，
   “bookSourceName”：“顶点小说208xs”，
   “bookSourceUrl”：“https：//www.208xs.com-By Dark”，
   “启用”：false，
@@ -252,7 +281,7 @@
   “体重”：0
 },
   {
-  "bookSourceGroup": "CSS; 正则",
+  "bookSourceGroup": "2群",
   "bookSourceName": "🔥卡夜阁so",
   "bookSourceUrl": "https://m.kygso.com",
   "enable": false,
@@ -295,7 +324,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "封存",
+  "bookSourceGroup": "2群",
   "bookSourceName": "小说骑士(落寞尘世)",
   "bookSourceUrl": "https://www.xs74.com",
   "enable": false,
@@ -321,7 +350,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "A级",
+  "bookSourceGroup": "2群",
   "bookSourceName": "ABC小说",
   "bookSourceUrl": "https://www.yb3.cc-By Dark",
   "enable": true,
@@ -350,7 +379,7 @@
   "weight": 0
 },
   {
-  "bookSourceGroup": "",
+  "bookSourceGroup": "2群",
   "bookSourceName": "玄界小说网(落寞尘世)",
   "bookSourceUrl": "http://www.xuanjiexiaoshuo.com",
   "enable": false,
@@ -372,7 +401,7 @@
 },
   {
   "bookSourceName": "全小说",
-  "bookSourceGroup": "Xpath+正则",
+  "bookSourceGroup": "2群",
   "bookSourceUrl": "https://qxs.la",
   "loginUrl": "",
   "ruleFindUrl": "",
